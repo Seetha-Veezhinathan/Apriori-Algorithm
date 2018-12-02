@@ -8,6 +8,7 @@ import java.sql.*;
  * 
  * @author SEETHA VEEZHINATHAN
  */
+
 public class AprioriAlgorithm {
 
 	public static void main(String args[]) throws ClassNotFoundException, SQLException
